@@ -1,0 +1,43 @@
+body{
+    margin: 5px;
+    padding: 5px;
+    background-color: #D988B9;
+    display: flex;
+    
+    font-family: 'Noto Sans', sans-ser;
+    font-size: 1.25rem;
+}
+
+
+.vertical-line{
+    border-left: 2px solid #f7e9e9;
+}
+
+.title img{
+    border-radius: 50%;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.container{
+    padding: 1rem;
+ }
+
+.dark{
+    font-weight: 800;
+}
+
+.education{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+
+
+
+
